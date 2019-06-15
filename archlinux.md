@@ -1,12 +1,12 @@
 
-#Useful commands for Arch Linux
+# Useful commands for Arch Linux
 
-## Package management ***
+## Package management
 
-Install package:
+- Install package:
 	> `yay -S package`
 
-## System settings ***
+## System settings
 
 - Change brigthness:
 	> `xbacklight -set 50`
