@@ -1,4 +1,4 @@
-#Useful commands for git
+# Useful commands for git
 
 ## Git configuration
 
