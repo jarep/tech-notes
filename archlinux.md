@@ -4,12 +4,12 @@
 ## Package management ***
 
 Install package:
-	> yay -S package
+	> `yay -S package`
 
 ## System settings ***
 
-- Brigthness:
-	> xbacklight -set 50
+- Change brigthness:
+	> `xbacklight -set 50`
 
-- Audio tool:
-	> alsamixer
+- Open audio tool:
+	> `alsamixer`
