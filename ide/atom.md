@@ -1,3 +1,3 @@
 ## Atom shortcuts
 
-- [Ctrl][Shift][M] - display markdown preview
+- `[Ctrl][Shift][M]` - display markdown preview
