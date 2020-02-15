@@ -7,9 +7,14 @@
 
 	`yay -S package`
 
+- Uninstall package
+
+	`yay -R package`
+
 - To update all packages from AUR and official repositories, use -Syu flag.
 
 	`yay -Syu`
+
 
 ## System settings
 
