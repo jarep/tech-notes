@@ -7,6 +7,8 @@
 
 	`docker run`
 
+	`docker exec -it <container name> /bin/bash`
+
 - Run postgres
 
 	`docker run --name my-postgres -p 5432:5432 -e POSTGRES_PASSWORD=password -d postgres`
@@ -16,7 +18,6 @@
 - List of volumes
 
   `docker volumes -l`
-
 
 
 # Docker compose
