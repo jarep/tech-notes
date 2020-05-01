@@ -1,6 +1,16 @@
 
 # Useful commands for Arch Linux
 
+## Keyboard brightness
+
+- list of available brightness controls
+
+	`brightnessctl --list`
+
+- set value for particular device
+
+	`brightnessctl --device='asus::kbd_backlight' set 1`
+
 ## Package management
 
 - Install package:
@@ -15,6 +25,13 @@
 
 	`yay -Syu`
 
+- To search for already installed packages
+
+	`yay -Qs package-name`
+
+- To install specific version of package, you can downgrade it using:
+
+	`downgrade package-name`
 
 ## System settings
 
